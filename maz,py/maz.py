@@ -1,6 +1,4 @@
-
 concatenated_string = ' '.join(['Python', 'is', 'a', 'powerful', 'language'])
-
 
 topic = "strings in Python."
 
